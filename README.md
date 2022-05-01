@@ -84,7 +84,7 @@ cv2.destroyAllWindows()
 ![output](https://github.com/Sucharithachowdary/Histogram-of-an-image/blob/main/s%20dipt%201.png?raw=true)
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output](https://github.com/Sucharithachowdary/Histogram-of-an-image/blob/main/s%20dipt%202.png?raw=true)
-![output](https://github.com/Sucharithachowdary/Histogram-of-an-image/blob/main/s%20dipt%203.png?raw=true)
+![output](https://github.com/Sucharithachowdary/Histogram-of-an-image/blob/main/s%20dipt3.png?raw=true)
 ### Histogram Equalization of Grayscale Image
 ![output](https://github.com/Sucharithachowdary/Histogram-of-an-image/blob/main/s%20dipt%204.png?raw=true)
 ## Result: 
